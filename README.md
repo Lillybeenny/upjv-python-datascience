@@ -1,7 +1,7 @@
 # Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Lilly Thauvin
-**Formation :** L3 Économie / M1 Économie
+**Formation :** L3 Économie
 **Année :** 2026-2027
 
 ## Description
